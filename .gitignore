@@ -1,0 +1,8 @@
+# UX REPO
+
+# All Apple Generated System Files
+**.DS_Store
+**Thumbs.db
+
+# Dependencies
+**/node_modules
