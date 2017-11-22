@@ -16,7 +16,3 @@ Planning for the creation, delivery, and governance of useful, usable content.
 UX is not just about the form.
 
 Its not about the devices or the content. Its about the people (the users) that create all this stuff.
-
-| Description        | Image           |
-| :------------- |:-------------:|
-| Nothing Here Nothing Here Nothing Here Nothing Here Nothing Here | ![Layout](https://i2.wp.com/ioshacker.com/wp-content/uploads/2013/11/joker-wallpaper-iphone-5s-5c.jpg) |

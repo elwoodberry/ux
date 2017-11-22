@@ -1,16 +1,19 @@
 ![Layout](https://raw.github.com/elwoodberry/ux/master/_img/header/890x400__root.jpg)
 
 ## Table Of Contents
+1. [Portfolio](#portfolio)
 1. [Content Strategy](#content-strategy)
-1. [functionality](#functionality)
-1. [information-architecture](#information-architecture)
-1. [interaction-design](#interaction-design)
-1. [typography](#typography)
-1. [usability](#usability)
-1. [user-interface](#user-interface)
-1. [visual-design](#visual-design)
+1. [Functionality](#functionality)
+1. [Information Architecture](#information-architecture)
+1. [Interaction Design](#interaction-design)
+1. [Typography](#typography)
+1. [Usability](#usability)
+1. [User Interface](#user-interface)
+1. [Visual Design](#visual-design)
 ## +
 
+## Portfolio
+1. [Vendor Management App](portfolio/vendor-management)
 
 ## Content Strategy
 1. [UX Content Strategy w/ Karen McGrane](content-strategy/ux-content-strategy)
