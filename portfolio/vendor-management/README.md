@@ -11,9 +11,12 @@
 | Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
 | :----------:  | :----------:| :----------:  | :----------:  | :----------:  |  
 | Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
-| Image   | Image   | Image   | Image   | Image  |   
+| Image   | Image   | Image   | Image   | Image   |
 
-![Layout](https://upload.wikimedia.org/wikipedia/commons/4/46/Generic_Feed-icon.svg)
+![Layout](raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/vm_font_dashboard.svg)
+
+
+Original URL:
 
 
 | Diagram 001        | Image           |
