@@ -13,7 +13,7 @@
 | Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
 | Image   | Image   | Image   | Image   | Image  |   
 
-![Layout](http://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/Home-icon.png)
+![Layout](https://upload.wikimedia.org/wikipedia/commons/4/46/Generic_Feed-icon.svg)
 
 
 | Diagram 001        | Image           |
