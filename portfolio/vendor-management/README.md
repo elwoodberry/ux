@@ -13,7 +13,7 @@
 | Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
 | Image   | Image   | Image   | Image   | Image  |   
 
-![Layout](https://raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/vm_font_dashboard.svg)
+![Layout](http://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/Home-icon.png)
 
 
 | Diagram 001        | Image           |
