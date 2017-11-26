@@ -13,7 +13,7 @@
 | Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
 | Image   | Image   | Image   | Image   | Image   |
 
-![Layout](raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/vm_font_dashboard.svg)
+![Layout](raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/01__app-nav__state-01__mngmnt-app.png)
 
 
 Original URL:
