@@ -1,22 +1,27 @@
 # UX Content Strategy w/ Karen McGrane
 Outlined By [Elwood Berry](http://www.elwoodberry.com).  
-
+**URL**: [https://youtu.be/tlskof89nUw](https://youtu.be/tlskof89nUw)  
 **Author(s)**  
   * [Jose Caballer](http://www.josecaballer.co/), Chief Content Officer, [The Skool](https://www.thefutur.com/)  
   * [Karen McGrane](https://karenmcgrane.com/)  
     * [Going Responsive](https://abookapart.com/products/going-responsive) written by Karen McGrane  
 
-**URL**: [https://youtu.be/tlskof89nUw](https://youtu.be/tlskof89nUw)  
+## Outline
+1. [Content Strategy](#content-strategy)
+1. [How Do You Deal With Content?](#how-do-you-deal-with-content)
+1. [Demystify UX](#demystify-ux)
+1. [What is Content Modeling? ](#what-is-content-modeling)
+## +
 
-**Content Strategy**  
+### Content Strategy
 Planning for the creation, delivery, and governance of useful, usable content.
 
-**How Do You Deal With Content?**  
+### How Do You Deal With Content?
 UX is not just about the form.  
 
 Its not about the devices or the content. Its about the people (the users) that create all this stuff.
 
-**What Does One Of Those Projects Look Like?** (04:42)
+**What Does One Of Those Projects Look Like?**  
 * Thinking through the print to web strategy (in this case, a hospital).
 * Publishing content on ongoing basis.
 * What has to change in order for their people to collaborate together.
@@ -28,7 +33,7 @@ Its not about the devices or the content. Its about the people (the users) that 
 2. Small and medium agencies
 3. Transitioning agencies
 
-**Demystify UX**  
+### Demystify UX
 What would you tell a freelance that is growing who has yet to hit some of those challenges.
 
 "... I think one of the benefit of UX as a mindset, as a point of view, is that it puts the effort into trying to understand who is the person coming to this website.."
@@ -54,7 +59,7 @@ What would you tell a freelance that is growing who has yet to hit some of those
 1. ".. I'm going to layout this particular page and the content on it is going to be completely perfect and everything is going to be aligned to the pixel...you come back to see they have ruined your layout with a bunch of crap you were not anticipating."
 1. "..When you are really working on the web you realize that it was your fault. Good design on the web means accounting for flexibility."
 
-**What is Content Modeling?**  
+### What is Content Modeling?  
 1. "..the problem most people run into is trying to build a website and you get to the 11th hour and realize you don't have the content.."
 1. "..for a lot of design processes you don't need all the content."
 1. "..What you need is a sense of the structure of the content.."
