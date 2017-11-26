@@ -8,8 +8,9 @@
 ## User Profile
 
 ## App Navigation
-Inspiration  
-Influence  
+| Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
+| :----------:  | :----------:| :----------:  | :----------:  | :----------:  |  
+| Dashboard     | Vendors     | Locations     |  Pickups     |  Settings     |
 
 | Diagram 001        | Image           |
 | :------------- |:-------------:|
