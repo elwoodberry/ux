@@ -16,7 +16,7 @@
 ### Vendors
 | View Stack [01]       | "List, All"           |
 | :------------- |:-------------:|
-| Text goes here   |   ![Layout](https://raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/wireframes/02__vendor__state-01__all-vendors.png)   |
+| <dl><dt>All Vendors</dt><dd>A vendor can be one that sells the company their supplies or they do not sell the company supplies. This filter shows all vendors no matter what their status is.</dd><dt>Simple</dt><dd>The term "Simple" represents a vendor that has not sold the company their supplies to the company.</dd><dt>Premium</dt><dd>The term "Premium" represents a vendor that has sold the company their supplies to the company.</dd></dl>   |   ![Layout](https://raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/wireframes/02__vendor__state-01__all-vendors.png)   |
 
 As an end user I need to be able to:  
 1. View A list of vendors
