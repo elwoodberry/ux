@@ -15,6 +15,7 @@
 
 ### Vendors
 As an end user I need to be able to:  
+1. View A list of vendors
 1. Add a new vendor.
     1. First Name
     1. Last Name
@@ -25,7 +26,10 @@ As an end user I need to be able to:
     1. State
     1. Zip
     1. Group Classification
-        1. What type of strips do you have? 
+        1. What type of strips do you have?
 
-2. Edit an existing vendor.
-3. Delete a vendor
+1. Edit an existing vendor.
+1. Delete a vendor
+
+### Pickups
+![Picksup Flow Chart](https://raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/flowcharts/fc_04_pickups.png)
