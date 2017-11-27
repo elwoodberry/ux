@@ -2,10 +2,15 @@
 **Portfolio UI/UX**  
 
 ## Outline
+1. [Authentication](#authentication)
 1. [App Navigation](#app-navigation)
+1. [Vendors](#vendors)
 ## +
 
-## User Profile
+## Authentication
+| View Stack [01]       | "Sign In"           |
+| :------------- |:-------------:|
+| <dl><dt>All Vendors</dt><dd>A vendor can be one that sells the company their supplies or they do not sell the company supplies. This filter shows all vendors no matter what their status is.</dd><dt>Simple</dt><dd>The term "Simple" represents a vendor that has not sold the company their supplies to the company.</dd><dt>Premium</dt><dd>The term "Premium" represents a vendor that has sold the company their supplies to the company.</dd></dl>   |   ![Layout](https://raw.github.com/elwoodberry/ux/master/portfolio/vendor-management/_img/wireframes/00__auth__state-01__sign-in.png)   |
 
 ## App Navigation
 
