@@ -17,3 +17,12 @@
 
 ## Content Strategy
 1. [UX Content Strategy w/ Karen McGrane](content-strategy/ux-content-strategy)
+
+
+## Dev Tools
+1. [Atom](#) IDE
+1. [Chrome Dev Tools]
+1. [Draw.io](#)
+1. [Pixrl Editor](#)
+1. [Gravit.io](#)
+1. [Hero Patterns](#)
