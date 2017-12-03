@@ -10,16 +10,16 @@ The official UX portfolio of **Elwood S. Berry III**.
 | ![2op5](_img/2op5.png)   | Create/Share/Socialize top five musicians. Three filters that include 'dead', 'alive' and both.    |
 |:-------------:|:-------------|
 
-  * Launch [Production](http://simplestrips.com) application.
-  * See [UI/UX Documentation](vendor-management) for the retail user application.
+  * Production application has not been deployed. Check back later.
+  * See [UI/UX Documentation](2op5) for the retail user application.
 ---
 
 ## NFXN
-| ![Vendor Management](_img/vendor-management.png)   | Create/Share/Monetize price patterns. Primarily designed for the trade of currency.    |
+| ![NFXN](_img/nfxn.png)   | Create/Share/Monetize price patterns. Primarily designed for the trade of currency.    |
 |:-------------:|:-------------|
 
-  * Launch [Production](http://simplestrips.com) application.
-  * See [UI/UX Documentation](vendor-management) for the retail user application.
+  * Production application has not been deployed. Check back later.
+  * See [UI/UX Documentation](nfxn) for the retail user application.
 ---
 
 ## Vendor Management
