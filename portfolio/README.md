@@ -7,10 +7,10 @@ The official UX portfolio of **Elwood S. Berry III**.
 
 ## Vendor Management
 
-| Tables        | Built for Simple Strips, LLC. An independent contractor for diabetic supply manufacturers. In this document I illustrate the proposed UI/UX for the application.           |
+| ![Vendor Management](_img/vendor-management.png)   | Built for Simple Strips, LLC. An independent contractor for diabetic supply manufacturers. In this document I illustrate the proposed UI/UX for the application.   |
 |:-------------:|:-------------|
 
-
-  * See [Full Documentation](vendor-management) for the Simple Strips management application.
+  * Launch [Production](vendor-management) application.
+  * See [UI/UX Documentation](vendor-management) for the Simple Strips management application.
 
 ## TopFive
