@@ -3,7 +3,7 @@
 
 
 
-![diagram01](_img/diagrams/2opfive__dgrm_001.png)
+![diagram01](../_img/diagrams/2opfive__dgrm_001.png)
 
 # 2OP5
 
