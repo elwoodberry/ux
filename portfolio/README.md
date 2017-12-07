@@ -7,7 +7,7 @@ The official UX portfolio of **Elwood S. Berry III**.
 
 
 ## 2op5
-| ![2op5](_img/2op5.png)   | Create/Share/Socialize top five musicians. Three filters that include 'dead', 'alive' and both.    |
+| ![2op5](_img/icons/2op5.png)   | Create/Share/Socialize top five musicians. Three filters that include 'dead', 'alive' and both.    |
 |:-------------:|:-------------|
 
   * Production application has not been deployed. Check back later.
@@ -15,7 +15,7 @@ The official UX portfolio of **Elwood S. Berry III**.
 ---
 
 ## NFXN
-| ![NFXN](_img/nfxn.png)   | Create/Share/Monetize price patterns. Primarily designed for the trade of currency.    |
+| ![NFXN](_img/icons/nfxn.png)   | Create/Share/Monetize price patterns. Primarily designed for the trade of currency.    |
 |:-------------:|:-------------|
 
   * Production application has not been deployed. Check back later.
@@ -23,7 +23,7 @@ The official UX portfolio of **Elwood S. Berry III**.
 ---
 
 ## Vendor Management
-| ![Vendor Management](_img/vendor-management.png)   | Built for Simple Strips, LLC. An independent contractor for diabetic supply manufacturers. In this document I illustrate the proposed UI/UX for the application.   |
+| ![Vendor Management](_img/icons/vendor-management.png)   | Built for Simple Strips, LLC. An independent contractor for diabetic supply manufacturers. In this document I illustrate the proposed UI/UX for the application.   |
 |:-------------:|:-------------|
 
   * Launch [Production](http://simplestrips.com) application.

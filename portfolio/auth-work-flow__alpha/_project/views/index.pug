@@ -1,0 +1,46 @@
+extends ./layouts/default.pug
+
+block content
+
+  .container
+    i brand image goes here
+
+    .card
+
+      .card-body
+        h2 title
+        p Create an account for this incredible application.
+          a(id="learn-more") Learn More
+        p Already have an account?
+          a(id="sign-in") Sign In
+
+      form(method="post" action="/login")
+        .form-group
+          label(for="email-address") Email Address
+          input(type="email" name="email-address" id="email-address" class="form-control" placeholder="You'll verify this later.")
+
+        .form-group
+          label(for="email-address") Email Address
+          input(type="email" name="email-address" id="email-address" class="form-control" placeholder="Helps with lost passwords and security.")
+
+        .form-group
+          label(for="email-address") Email Address
+          input(type="email" name="email-address" id="email-address" placeholder="Don't reuse an old password.")
+
+        input(id="create-an-account" type="submit" class="btn btn-primary")
+
+      .card-body
+        p By clicking Create Account, you agree to our
+        p
+          a(id="license-agreement") License Agreement
+          and
+          a(id="privacy-statement") Privacy Statement.
+
+    .card(style="width: 20rem;")
+      img(class="card-img-top" src="..." alt="Card image cap")
+      .card-body
+        h4(class="card-title") Card title
+        p(class="card-text") Some quick example text to build on the card title and make up the bulk of the card's content.
+        a(href="#" class="btn btn-primary") Go somewhere
+
+    include ./partials/footer.pug
