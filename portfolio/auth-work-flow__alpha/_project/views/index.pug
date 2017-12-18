@@ -3,44 +3,49 @@ extends ./layouts/default.pug
 block content
 
   .container
-    i brand image goes here
 
-    .card
+    #auth-alpha
 
-      .card-body
-        h2 title
-        p Create an account for this incredible application.
-          a(id="learn-more") Learn More
-        p Already have an account?
-          a(id="sign-in") Sign In
+      //- BRAND IMAGE
+      //- Expects string or image.
+      .brand-container nfxn
 
-      form(method="post" action="/login")
-        .form-group
-          label(for="email-address") Email Address
-          input(type="email" name="email-address" id="email-address" class="form-control" placeholder="You'll verify this later.")
+      .card
 
-        .form-group
-          label(for="email-address") Email Address
-          input(type="email" name="email-address" id="email-address" class="form-control" placeholder="Helps with lost passwords and security.")
+        .card-body
+          h2 Sign In
+          p Create an account for this incredible application.
+            a(id="learn-more" href="#") Learn More
+          p Already have an account?
+            a(id="sign-in" href="#") Sign In
 
-        .form-group
-          label(for="email-address") Email Address
-          input(type="email" name="email-address" id="email-address" placeholder="Don't reuse an old password.")
+          form(method="post" action="/login")
+            .form-group
+              label(for="username") Username
+              input(type="email" name="username" id="username" class="form-control" placeholder="Username")
 
-        input(id="create-an-account" type="submit" class="btn btn-primary")
+            .form-group
+              label(for="password") Password
+              input(type="password" name="password" id="password" class="form-control" placeholder="Password")
 
-      .card-body
-        p By clicking Create Account, you agree to our
-        p
-          a(id="license-agreement") License Agreement
-          and
-          a(id="privacy-statement") Privacy Statement.
+            .form-check
+              label(class="form-check-label")
+                input(type="checkbox" class="form-check-input")
+                span Remember Me
 
-    .card(style="width: 20rem;")
-      img(class="card-img-top" src="..." alt="Card image cap")
-      .card-body
-        h4(class="card-title") Card title
-        p(class="card-text") Some quick example text to build on the card title and make up the bulk of the card's content.
-        a(href="#" class="btn btn-primary") Go somewhere
+            input(id="create-an-account" type="submit" class="btn btn-primary")
 
-    include ./partials/footer.pug
+          p By clicking Sign In, you agree to our
+
+          a(id="license-agreement" href="#") Terms of Use
+          span and
+          a(id="privacy-statement" href="#") Privacy Statement.
+
+          hr
+
+          a(id="license-agreement" href="#") I forgot my username or pasword
+          span New to NFXN
+          a(id="privacy-statement" href="#") Create an account.
+
+
+      include ./partials/auth-alpha/footer.pug
